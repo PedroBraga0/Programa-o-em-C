@@ -10,6 +10,7 @@ printf("POR FAVOR, DIGITE O SEGUNDO NUMERO:  \n");
 scanf("%d",&num2);
 
 resultado = (num1 + num2) / 2;
+  // calculo da media
 media = resultado;
 
 printf("O RESULTADO DA MEDIA é :\n");
